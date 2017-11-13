@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ab pula mea a
+=======
+ab pula mea c
+>>>>>>> 5ab6955685184447114b35a726d3801d4a4b8faf
